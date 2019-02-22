@@ -1,0 +1,7 @@
+dw.json
+node_modules
+npm-debug.log
+**/cartridge/static/default/css
+**/cartridge/static/default/js
+*.zip
+**/tmp
